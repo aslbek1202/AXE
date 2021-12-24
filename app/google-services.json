@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550757176489",
+    "project_id": "axe-chat-cbe3b",
+    "storage_bucket": "axe-chat-cbe3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550757176489:android:f4dd3a398c77fcb25e45b8",
+        "android_client_info": {
+          "package_name": "com.SheyhMe01.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550757176489-3jku7p9l5rke8kenrq49d68tba034qd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SheyhMe01.myapplication",
+            "certificate_hash": "fff5ac98e83349de34aa4152db593938152bb861"
+          }
+        },
+        {
+          "client_id": "550757176489-r8tlrvlh25qvoff5ijur0h2m7q0rs573.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZFYKOpZrka289HsRq4oRV9NE61_RPls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550757176489-r8tlrvlh25qvoff5ijur0h2m7q0rs573.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
